@@ -1,6 +1,6 @@
 {
   "name": "pwa-starter",
-  "version": "1.2.0",
+  "version": "1.2.3",
   "description": "Instantly scaffold a Progressive Web App with HTML, CSS, manifest, service worker, and install button — zero config",
   "main": "index.js",
   "scripts": {
