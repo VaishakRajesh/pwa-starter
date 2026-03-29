@@ -1,0 +1,36 @@
+{
+  "name": "pwa-starter",
+  "version": "1.2.0",
+  "description": "Instantly scaffold a Progressive Web App with HTML, CSS, manifest, service worker, and install button — zero config",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "pwa",
+    "progressive-web-app",
+    "scaffold",
+    "starter",
+    "html",
+    "css",
+    "service-worker",
+    "manifest",
+    "offline",
+    "installable",
+    "cli"
+  ],
+  "author": "VR",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "pwa-starter": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AKVbuilder/pwa-starter.git"
+  },
+  "homepage": "https://github.com/AKVbuilder/pwa-starter#readme",
+  "bugs": {
+    "url": "https://github.com/AKVbuilder/pwa-starter/issues"
+  }
+}
